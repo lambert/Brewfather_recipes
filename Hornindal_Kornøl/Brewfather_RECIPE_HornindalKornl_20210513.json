@@ -1,0 +1,566 @@
+{
+  "miscs": [
+    {
+      "use": "Mash",
+      "_id": null,
+      "name": "Juniper berries (dried, whole)",
+      "unit": "ml",
+      "time": null,
+      "amount": 8.77,
+      "notes": null,
+      "type": "Spice"
+    }
+  ],
+  "_share": null,
+  "ibuFormula": "tinseth",
+  "og": 1.065842353,
+  "color": 4.5,
+  "carbonation": 2.35,
+  "styleColor": true,
+  "styleConformity": false,
+  "firstWortGravity": null,
+  "boilSize": 5.96,
+  "styleBuGu": false,
+  "ibu": 4.2,
+  "_timestamp_ms": 1620931036977,
+  "_type": "recipe",
+  "primaryTemp": 20,
+  "_timestamp": "2021-05-13T18:37:16.977Z",
+  "data": {
+    "mashFermentablesAmount": 1.703,
+    "allDiastaticPower": false,
+    "totalDiastaticPower": 0,
+    "mashFermentables": [
+      {
+        "supplier": null,
+        "addAfterBoil": false,
+        "notFermentable": null,
+        "grainCategory": "Base",
+        "potentialPercentage": 78.26,
+        "type": "Grain",
+        "notes": null,
+        "name": "Pale Ale Malt",
+        "ibuPerAmount": 0,
+        "_id": null,
+        "amount": 1.703,
+        "origin": "Finland",
+        "percentage": 100,
+        "potential": 1.036,
+        "color": 2
+      }
+    ],
+    "otherFermentablesAmount": 0,
+    "otherFermentables": [],
+    "mashWaterAmount": 5.11,
+    "spargeWaterAmount": 2.6,
+    "mashVolumeSurplus": 0,
+    "topUpWater": 0,
+    "batchSpargeWaterAmount1": null,
+    "batchSpargeWaterAmount2": null,
+    "batchSpargeWaterAmount3": null,
+    "batchSpargeWaterAmount4": null,
+    "hltWaterAmount": 2.6,
+    "totalWaterAmount": 7.71,
+    "hopsAmount": 15.4,
+    "strikeTemp": 74.1,
+    "mashVolume": 6.251010000000001
+  },
+  "avgWeightedHopstandTemp": 80,
+  "_ev": 1.1,
+  "hidden": false,
+  "name": "Hornindal Kornøl",
+  "fermentableIbu": 0,
+  "searchTags": [],
+  "totalGravity": 1.065842353,
+  "hopsTotalAmount": 15.4,
+  "mashEfficiency": 73.3,
+  "fgEstimated": 1.015,
+  "styleAbv": true,
+  "_created": {
+    "seconds": 1616109057,
+    "nanoseconds": 542000000
+  },
+  "manualFg": false,
+  "_id": "tcmtgvDz2BLAh11TDWO22H1kTH9k1e",
+  "batchSize": 5.6,
+  "efficiency": 71.8,
+  "buGuRatio": 0.06,
+  "attenuation": 0.763,
+  "preBoilGravity": 1.066,
+  "fermentation": {
+    "steps": [
+      {
+        "stepTemp": 20,
+        "stepTime": 14,
+        "type": "Primary"
+      }
+    ],
+    "_id": "default",
+    "name": "Ale"
+  },
+  "_uid": "f8vzySfCNzOXgK7PVc1TpOuM5m22",
+  "yeastToleranceExceededBy": null,
+  "sumDryHopPerLiter": 0,
+  "styleOg": true,
+  "styleCarb": true,
+  "path": "",
+  "ogPlato": 16.1,
+  "diastaticPower": 0,
+  "defaults": {
+    "preferred": "metric",
+    "abv": "simple",
+    "attenuation": "normal",
+    "color": "ebc",
+    "grainColor": "default",
+    "gravity": "sg",
+    "ibu": "tinseth",
+    "temp": "c",
+    "volume": "l",
+    "weight": "kg",
+    "hop": "g",
+    "pressure": "bar",
+    "carbonation": "vol",
+    "altitude": "m"
+  },
+  "fg": 1.015,
+  "styleRbr": false,
+  "tags": null,
+  "nutrition": {
+    "calories": {
+      "alcohol": 38.574834755207185,
+      "carbs": 24.15718743955671,
+      "total": 62.7320221947639,
+      "kJ": 262.4707808628922
+    },
+    "carbs": {
+      "total": 6.035963149182212
+    }
+  },
+  "postBoilGravity": 1.065842353,
+  "hops": [
+    {
+      "amount": 15.4,
+      "alpha": 4.5,
+      "time": 30,
+      "_id": null,
+      "type": "Pellet",
+      "ibu": 4.2,
+      "notes": null,
+      "use": "Mash",
+      "temp": null,
+      "origin": null,
+      "name": "Tettnanger"
+    }
+  ],
+  "fermentables": [
+    {
+      "supplier": null,
+      "addAfterBoil": false,
+      "notFermentable": null,
+      "grainCategory": "Base",
+      "potentialPercentage": 78.26,
+      "type": "Grain",
+      "notes": null,
+      "name": "Pale Ale Malt",
+      "ibuPerAmount": 0,
+      "_id": null,
+      "amount": 1.703,
+      "origin": "Finland",
+      "percentage": 100,
+      "potential": 1.036,
+      "color": 2
+    }
+  ],
+  "fermentablesTotalAmount": 1.703,
+  "styleFg": true,
+  "yeasts": [
+    {
+      "attenuation": 79,
+      "productId": "OYL-091",
+      "form": "Liquid",
+      "notes": null,
+      "name": "Hornindal Kveik OYL-091",
+      "type": "Norwegian Ales",
+      "_id": null,
+      "laboratory": "Omega Yeast Labs",
+      "unit": "pkg",
+      "amount": 1
+    }
+  ],
+  "_init": true,
+  "equipment": {
+    "mashWaterFormula": "(GrainAmountKg * WaterGrainRatio) + MashTunDeadSpaceL",
+    "boilTime": 0,
+    "name": "01 Brouwpunt 5L (no boil) (rev 4)",
+    "mashTunDeadSpace": 0,
+    "fermenterLossEstimate": 0,
+    "mashWaterVolumeLimitEnabled": true,
+    "evaporationRate": 0.30201342281879195,
+    "_version": "2.7.0",
+    "efficiencyType": "Fermenter",
+    "grainAbsorptionRate": 0.96,
+    "spargeWaterMin": null,
+    "brewhouseEfficiency": 71.8,
+    "aromaHopUtilization": 0.23,
+    "hopUtilization": 1,
+    "_created": {
+      "seconds": 1588432108,
+      "nanoseconds": 111000000
+    },
+    "boilOffPerHr": 1.8,
+    "calcAromaHopUtilization": true,
+    "hopstandTemperature": 80,
+    "bottlingVolume": 5,
+    "postBoilKettleVol": 5.958333333333333,
+    "calcStrikeWaterTemperature": true,
+    "efficiency": 71.8,
+    "calcBoilVolume": true,
+    "boilSize": 5.96,
+    "hidden": false,
+    "_meta": {
+      "efficiencyIsCalculated": true,
+      "mashEfficiencyIsCalculated": true
+    },
+    "_timestamp": {
+      "seconds": 1613822640,
+      "nanoseconds": 823000000
+    },
+    "batchSize": 5.6,
+    "waterGrainRatio": 3,
+    "trubChillerLoss": 0.12,
+    "spargeWaterOverflow": "Top-Up",
+    "fermenterLoss": 0.6,
+    "fermenterVolumeBeforeTopUp": 5.6,
+    "mashTunLoss": 0.12,
+    "fermenterVolume": 5.6,
+    "calcMashEfficiency": true,
+    "spargeWaterFormula": "BoilVolumeL - MashWaterL + (GrainAmountKg * GrainAbsorptionRate) + MashTunLossL",
+    "mashEfficiency": 73.3,
+    "mashWaterMax": 12,
+    "_timestamp_ms": 1613822640823,
+    "_id": "iTxTEliEUdI6a22qRgWaCIo7m0KSKv",
+    "spargeWaterMax": null,
+    "waterCalculation": "Default"
+  },
+  "boilTime": 0,
+  "styleIbu": false,
+  "notes": "Target: ABV = 6.76 %, IBU = 6.26, EBC = 9.6, OG = 1.066, FG = 1.014.\nAdd 1 gallon frozen water to cool\nhttps://www.brewersfriend.com/homebrew/recipe/view/841088/hornindal-kornl-norwegian-farmhouse-raw-ale-",
+  "mash": {
+    "name": "Mash Steps",
+    "_id": null,
+    "steps": [
+      {
+        "stepTime": 30,
+        "type": "Temperature",
+        "stepTemp": 67.777777777778,
+        "rampTime": 0,
+        "name": ""
+      }
+    ]
+  },
+  "fgFormula": "normal",
+  "extraGravity": 0,
+  "rbRatio": 0.06,
+  "water": {
+    "sparge": {
+      "hidden": false,
+      "chloride": 92,
+      "residualAlkalinityMeqLCalc": 1.89354,
+      "residualAlkalinity": 103.2187,
+      "soClRatio": 0.53,
+      "type": "source",
+      "anions": 6.369,
+      "_id": "0dxrN20le1t8L3uAFyM7gaS9bpolSj",
+      "name": "NL Hoofddorp Rein Tap Water (2020-Q3 WQR)",
+      "_timestamp_ms": 1616018916693,
+      "sodium": 68,
+      "calcium": 40,
+      "ionBalanceOff": true,
+      "sulfate": 49,
+      "ionBalance": -2,
+      "_timestamp": {
+        "seconds": 1616018916,
+        "nanoseconds": 693000000
+      },
+      "alkalinity": 137.6697,
+      "bicarbonate": 168,
+      "hardness": 141,
+      "cations": 5.777,
+      "_created": {
+        "seconds": 1590236754,
+        "nanoseconds": 620000000
+      },
+      "_version": "2.7.3",
+      "ph": 8.1,
+      "bicarbonateMeqL": 2.7533761636292122,
+      "magnesium": 10
+    },
+    "diluted": null,
+    "enableSpargeAdjustments": true,
+    "acidPhAdjustment": 0,
+    "spargeAcidPhAdjustment": 0,
+    "mashPh": 5.87,
+    "settings": {
+      "sodiumMetabisulfite": {
+        "mash": false,
+        "sparge": false,
+        "auto": false
+      },
+      "calciumSulfate": {
+        "auto": true,
+        "mash": true,
+        "sparge": true
+      },
+      "calciumChloride": {
+        "form": "liquid",
+        "sparge": true,
+        "auto": true,
+        "mash": true
+      },
+      "sodiumChloride": {
+        "sparge": true,
+        "auto": true,
+        "mash": true
+      },
+      "calciumHydroxide": {
+        "auto": false,
+        "sparge": false,
+        "mash": false
+      },
+      "adjustSparge": true,
+      "magnesiumChloride": {
+        "auto": false,
+        "sparge": false,
+        "mash": false
+      },
+      "calciumCarbonate": {
+        "auto": false,
+        "sparge": false,
+        "mash": false
+      },
+      "sodiumBicarbonate": {
+        "mash": true,
+        "auto": true,
+        "sparge": true
+      },
+      "magnesiumSulfate": {
+        "mash": true,
+        "sparge": true,
+        "auto": true
+      }
+    },
+    "meta": {
+      "equalSourceTotal": true
+    },
+    "totalAdjustments": {
+      "volume": 7.710000000000001,
+      "calciumCarbonate": 0,
+      "sodiumBicarbonate": 0,
+      "calciumHydroxide": 0,
+      "calciumSulfate": 0,
+      "magnesiumSulfate": 0,
+      "calciumChloride": 0,
+      "magnesiumChloride": 0,
+      "sodiumChloride": 0,
+      "sodiumMetabisulfite": 0,
+      "ltDWB": 0,
+      "ltAMS": 0,
+      "sodiumMetabisulfitePPM": 0,
+      "calcium": 0,
+      "magnesium": 0,
+      "sodium": 0,
+      "chloride": 0,
+      "sulfate": 0,
+      "bicarbonate": 0
+    },
+    "total": {
+      "hidden": false,
+      "chloride": 92,
+      "residualAlkalinityMeqLCalc": 1.89354,
+      "residualAlkalinity": 103.2187,
+      "soClRatio": 0.53,
+      "type": "source",
+      "anions": 6.369,
+      "_id": "0dxrN20le1t8L3uAFyM7gaS9bpolSj",
+      "name": "NL Hoofddorp Rein Tap Water (2020-Q3 WQR)",
+      "_timestamp_ms": 1616018916693,
+      "sodium": 68,
+      "calcium": 40,
+      "ionBalanceOff": true,
+      "sulfate": 49,
+      "ionBalance": -2,
+      "_timestamp": {
+        "seconds": 1616018916,
+        "nanoseconds": 693000000
+      },
+      "alkalinity": 137.6697,
+      "bicarbonate": 168,
+      "hardness": 141,
+      "cations": 5.777,
+      "_created": {
+        "seconds": 1590236754,
+        "nanoseconds": 620000000
+      },
+      "_version": "2.7.3",
+      "ph": 8.1,
+      "bicarbonateMeqL": 2.7533761636292122,
+      "magnesium": 10
+    },
+    "mashPhDistilled": 5.72,
+    "source": {
+      "hidden": false,
+      "chloride": 92,
+      "residualAlkalinityMeqLCalc": 1.89354,
+      "residualAlkalinity": 103.2187,
+      "soClRatio": 0.53,
+      "type": "source",
+      "anions": 6.369,
+      "_id": "0dxrN20le1t8L3uAFyM7gaS9bpolSj",
+      "name": "NL Hoofddorp Rein Tap Water (2020-Q3 WQR)",
+      "_timestamp_ms": 1616018916693,
+      "sodium": 68,
+      "calcium": 40,
+      "ionBalanceOff": true,
+      "sulfate": 49,
+      "ionBalance": -2,
+      "_timestamp": {
+        "seconds": 1616018916,
+        "nanoseconds": 693000000
+      },
+      "alkalinity": 137.6697,
+      "bicarbonate": 168,
+      "hardness": 141,
+      "cations": 5.777,
+      "_created": {
+        "seconds": 1590236754,
+        "nanoseconds": 620000000
+      },
+      "_version": "2.7.3",
+      "ph": 8.1,
+      "bicarbonateMeqL": 2.7533761636292122,
+      "magnesium": 10
+    },
+    "dilutionPercentage": null,
+    "spargeAdjustments": {
+      "volume": 2.6,
+      "calciumCarbonate": 0,
+      "sodiumBicarbonate": 0,
+      "calciumHydroxide": 0,
+      "calciumSulfate": 0,
+      "magnesiumSulfate": 0,
+      "calciumChloride": 0,
+      "magnesiumChloride": 0,
+      "sodiumChloride": 0,
+      "sodiumMetabisulfite": 0,
+      "ltDWB": 0,
+      "ltAMS": 0,
+      "acids": [
+        {
+          "concentration": 80,
+          "amount": 0,
+          "type": "lactic"
+        }
+      ],
+      "sodiumMetabisulfitePPM": 0,
+      "calcium": 0,
+      "magnesium": 0,
+      "sodium": 0,
+      "chloride": 0,
+      "sulfate": 0,
+      "bicarbonate": 0
+    },
+    "mashAdjustments": {
+      "bicarbonate": 0,
+      "calciumSulfate": null,
+      "sodiumMetabisulfitePPM": 0,
+      "sodiumBicarbonate": null,
+      "ltDWB": 0,
+      "sodiumChloride": null,
+      "magnesiumSulfate": null,
+      "ltAMS": 0,
+      "volume": 5.11,
+      "sodiumMetabisulfite": 0,
+      "calciumCarbonate": 0,
+      "sulfate": 0,
+      "magnesiumChloride": 0,
+      "calciumHydroxide": 0,
+      "calciumChloride": null,
+      "chloride": 0,
+      "sodium": 0,
+      "calcium": 0,
+      "acids": [
+        {
+          "amount": 0,
+          "alkalinityMeqL": 0,
+          "concentration": 80,
+          "type": "lactic"
+        }
+      ],
+      "magnesium": 0
+    },
+    "spargeTargetDiff": null,
+    "totalTargetDiff": null,
+    "mashTargetDiff": null,
+    "mash": {
+      "hidden": false,
+      "chloride": 92,
+      "residualAlkalinityMeqLCalc": 1.89354,
+      "residualAlkalinity": 103.2187,
+      "soClRatio": 0.53,
+      "type": "source",
+      "anions": 6.369,
+      "_id": "0dxrN20le1t8L3uAFyM7gaS9bpolSj",
+      "name": "NL Hoofddorp Rein Tap Water (2020-Q3 WQR)",
+      "_timestamp_ms": 1616018916693,
+      "sodium": 68,
+      "calcium": 40,
+      "ionBalanceOff": true,
+      "sulfate": 49,
+      "ionBalance": -2,
+      "_timestamp": {
+        "seconds": 1616018916,
+        "nanoseconds": 693000000
+      },
+      "alkalinity": 137.6697,
+      "bicarbonate": 168,
+      "hardness": 141,
+      "cations": 5.777,
+      "_created": {
+        "seconds": 1590236754,
+        "nanoseconds": 620000000
+      },
+      "_version": "2.7.3",
+      "ph": 8.1,
+      "bicarbonateMeqL": 2.7533761636292122,
+      "magnesium": 10
+    },
+    "sourceTargetDiff": null,
+    "mashWaterAmount": null,
+    "spargeWaterAmount": null
+  },
+  "style": {
+    "ibuMax": "2",
+    "categoryNumber": "",
+    "buGuMin": 0.1,
+    "name": "Kornøl",
+    "abvMin": "5.3",
+    "abvMax": "7.6",
+    "_id": "c5SoXKlehf5shLh2NITY8Y9nCG66IM",
+    "styleLetter": "",
+    "fgMax": 1.024,
+    "rbrMin": 0.1,
+    "styleGuide": "Home Brewers Association",
+    "lovibondMin": null,
+    "rbrMax": 0.03,
+    "fgMin": 1.013,
+    "lovibondMax": null,
+    "ibuMin": "0",
+    "buGuMax": 0.03
+  },
+  "hopStandMinutes": 0,
+  "_version": "2.7.6",
+  "carbonationStyle": null,
+  "abv": 6.69,
+  "type": "All Grain",
+  "author": "peterj"
+}
