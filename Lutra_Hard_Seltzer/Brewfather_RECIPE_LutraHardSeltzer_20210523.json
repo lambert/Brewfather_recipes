@@ -1,0 +1,627 @@
+{
+  "_timestamp": "2021-05-23T16:15:40.121Z",
+  "yeastToleranceExceededBy": null,
+  "author": "Gator Bait Brewery",
+  "water": {
+    "meta": {
+      "equalSourceTotal": true
+    },
+    "sourceTargetDiff": null,
+    "sparge": {
+      "magnesium": 2,
+      "type": "source",
+      "_created": {
+        "seconds": 1605214579,
+        "nanoseconds": 410000000
+      },
+      "cations": 2.185,
+      "bicarbonateMeqL": 1.5897469516192475,
+      "anions": 1.869,
+      "soClRatio": 2,
+      "_timestamp_ms": 1607434186886,
+      "chloride": 4,
+      "sodium": 4,
+      "hidden": false,
+      "residualAlkalinityMeqLCalc": 0.90093,
+      "hardness": 100,
+      "bicarbonate": 97,
+      "_id": "6CvEls85A8JByzyoaV9puHmbtInxpi",
+      "name": "Home Water (RV Filter)",
+      "ionBalance": 4,
+      "sulfate": 8,
+      "_version": "2.4.10",
+      "calcium": 37,
+      "residualAlkalinity": 51.8829,
+      "alkalinity": 79.4878,
+      "ionBalanceOff": true,
+      "_timestamp": {
+        "seconds": 1607434186,
+        "nanoseconds": 886000000
+      },
+      "ph": 7.7
+    },
+    "mashAdjustments": {
+      "acids": [
+        {
+          "concentration": 80,
+          "amount": 0,
+          "type": "lactic"
+        }
+      ],
+      "calciumSulfate": null,
+      "sodiumMetabisulfitePPM": 0,
+      "calciumHydroxide": 0,
+      "magnesium": 0,
+      "sodium": 0,
+      "volume": 0,
+      "sodiumChloride": 0,
+      "sodiumMetabisulfite": 0,
+      "chloride": 0,
+      "calcium": 0,
+      "calciumChloride": null,
+      "calciumCarbonate": 0,
+      "magnesiumSulfate": null,
+      "bicarbonate": 0,
+      "magnesiumChloride": 0,
+      "sulfate": 0,
+      "sodiumBicarbonate": 0,
+      "ltDWB": 0,
+      "ltAMS": 0
+    },
+    "diluted": null,
+    "dilutionPercentage": null,
+    "mash": {
+      "magnesium": 2,
+      "type": "source",
+      "_created": {
+        "seconds": 1605214579,
+        "nanoseconds": 410000000
+      },
+      "cations": 2.185,
+      "bicarbonateMeqL": 1.5897469516192475,
+      "anions": 1.869,
+      "soClRatio": 2,
+      "_timestamp_ms": 1607434186886,
+      "chloride": 4,
+      "sodium": 4,
+      "hidden": false,
+      "residualAlkalinityMeqLCalc": 0.90093,
+      "hardness": 100,
+      "bicarbonate": 97,
+      "_id": "6CvEls85A8JByzyoaV9puHmbtInxpi",
+      "name": "Home Water (RV Filter)",
+      "ionBalance": 4,
+      "sulfate": 8,
+      "_version": "2.4.10",
+      "calcium": 37,
+      "residualAlkalinity": 51.8829,
+      "alkalinity": 79.4878,
+      "ionBalanceOff": true,
+      "_timestamp": {
+        "seconds": 1607434186,
+        "nanoseconds": 886000000
+      },
+      "ph": 7.7
+    },
+    "settings": {
+      "magnesiumSulfate": {
+        "mash": true,
+        "sparge": true,
+        "auto": true
+      },
+      "magnesiumChloride": {
+        "sparge": false,
+        "auto": false,
+        "mash": false
+      },
+      "calciumSulfate": {
+        "auto": true,
+        "mash": true,
+        "sparge": true
+      },
+      "calciumHydroxide": {
+        "mash": false,
+        "auto": false,
+        "sparge": false
+      },
+      "sodiumBicarbonate": {
+        "auto": false,
+        "mash": false,
+        "sparge": false
+      },
+      "calciumCarbonate": {
+        "mash": false,
+        "sparge": false,
+        "auto": false
+      },
+      "adjustSparge": true,
+      "calciumChloride": {
+        "mash": true,
+        "sparge": true,
+        "auto": true,
+        "form": "dihydrate"
+      },
+      "sodiumChloride": {
+        "mash": false,
+        "sparge": false,
+        "auto": false
+      }
+    },
+    "totalTargetDiff": null,
+    "enableSpargeAdjustments": true,
+    "spargeWaterAmount": null,
+    "mashWaterAmount": null,
+    "totalAdjustments": {
+      "volume": 12.76,
+      "calciumCarbonate": 0,
+      "sodiumBicarbonate": 0,
+      "calciumHydroxide": 0,
+      "calciumSulfate": 0,
+      "magnesiumSulfate": 0,
+      "calciumChloride": 0,
+      "magnesiumChloride": 0,
+      "sodiumChloride": 0,
+      "sodiumMetabisulfite": 0,
+      "ltDWB": 0,
+      "ltAMS": 0,
+      "sodiumMetabisulfitePPM": 0,
+      "calcium": 0,
+      "magnesium": 0,
+      "sodium": 0,
+      "chloride": 0,
+      "sulfate": 0,
+      "bicarbonate": 0
+    },
+    "mashTargetDiff": null,
+    "spargeTargetDiff": null,
+    "spargeAdjustments": {
+      "volume": 12.76,
+      "calciumCarbonate": 0,
+      "sodiumBicarbonate": 0,
+      "calciumHydroxide": 0,
+      "calciumSulfate": 0,
+      "magnesiumSulfate": 0,
+      "calciumChloride": 0,
+      "magnesiumChloride": 0,
+      "sodiumChloride": 0,
+      "sodiumMetabisulfite": 0,
+      "ltDWB": 0,
+      "ltAMS": 0,
+      "acids": [
+        {
+          "amount": 0,
+          "concentration": 80,
+          "type": "lactic"
+        }
+      ],
+      "sodiumMetabisulfitePPM": 0,
+      "calcium": 0,
+      "magnesium": 0,
+      "sodium": 0,
+      "chloride": 0,
+      "sulfate": 0,
+      "bicarbonate": 0
+    },
+    "total": {
+      "magnesium": 2,
+      "type": "source",
+      "_created": {
+        "seconds": 1605214579,
+        "nanoseconds": 410000000
+      },
+      "cations": 2.185,
+      "bicarbonateMeqL": 1.5897469516192475,
+      "anions": 1.869,
+      "soClRatio": 2,
+      "_timestamp_ms": 1607434186886,
+      "chloride": 4,
+      "sodium": 4,
+      "hidden": false,
+      "residualAlkalinityMeqLCalc": 0.90093,
+      "hardness": 100,
+      "bicarbonate": 97,
+      "_id": "6CvEls85A8JByzyoaV9puHmbtInxpi",
+      "name": "Home Water (RV Filter)",
+      "ionBalance": 4,
+      "sulfate": 8,
+      "_version": "2.4.10",
+      "calcium": 37,
+      "residualAlkalinity": 51.8829,
+      "alkalinity": 79.4878,
+      "ionBalanceOff": true,
+      "_timestamp": {
+        "seconds": 1607434186,
+        "nanoseconds": 886000000
+      },
+      "ph": 7.7
+    },
+    "source": {
+      "magnesium": 2,
+      "type": "source",
+      "_created": {
+        "seconds": 1605214579,
+        "nanoseconds": 410000000
+      },
+      "cations": 2.185,
+      "bicarbonateMeqL": 1.5897469516192475,
+      "anions": 1.869,
+      "soClRatio": 2,
+      "_timestamp_ms": 1607434186886,
+      "chloride": 4,
+      "sodium": 4,
+      "hidden": false,
+      "residualAlkalinityMeqLCalc": 0.90093,
+      "hardness": 100,
+      "bicarbonate": 97,
+      "_id": "6CvEls85A8JByzyoaV9puHmbtInxpi",
+      "name": "Home Water (RV Filter)",
+      "ionBalance": 4,
+      "sulfate": 8,
+      "_version": "2.4.10",
+      "calcium": 37,
+      "residualAlkalinity": 51.8829,
+      "alkalinity": 79.4878,
+      "ionBalanceOff": true,
+      "_timestamp": {
+        "seconds": 1607434186,
+        "nanoseconds": 886000000
+      },
+      "ph": 7.7
+    }
+  },
+  "nutrition": {
+    "calories": {
+      "alcohol": 35.3371323091715,
+      "carbs": -0.46200189382629364,
+      "total": 34.87513041534521,
+      "kJ": 145.91754565780437
+    },
+    "carbs": {
+      "total": -0.18704683926874863
+    }
+  },
+  "styleIbu": true,
+  "_share": null,
+  "_id": "6JUt7684q9iJzKOp6Vu6bp975j0eso",
+  "styleBuGu": false,
+  "firstWortGravity": null,
+  "styleRbr": false,
+  "hopStandMinutes": 0,
+  "fermentableIbu": 0,
+  "name": "Lutra Hard Seltzer",
+  "sumDryHopPerLiter": 0,
+  "ogPlato": 10.1,
+  "mash": {
+    "name": "High fermentability",
+    "_id": "default",
+    "steps": [
+      {
+        "name": "",
+        "stepTemp": 65,
+        "stepTime": 60,
+        "type": "Temperature"
+      }
+    ]
+  },
+  "styleCarb": false,
+  "_type": "recipe",
+  "hopsTotalAmount": 0,
+  "styleAbv": false,
+  "preBoilGravity": 1.038,
+  "fg": 0.991,
+  "_init": true,
+  "fermentablesTotalAmount": 0.606,
+  "equipment": {
+    "mashWaterVolumeLimitEnabled": true,
+    "trubChillerLoss": 0.12,
+    "waterGrainRatio": 3,
+    "bottlingVolume": 5,
+    "_created": {
+      "seconds": 1588432108,
+      "nanoseconds": 111000000
+    },
+    "mashEfficiency": 73.3,
+    "efficiency": 71.8,
+    "_meta": {
+      "mashEfficiencyIsCalculated": true,
+      "efficiencyIsCalculated": true
+    },
+    "calcBoilVolume": true,
+    "batchSize": 5.6,
+    "boilOffPerHr": 1.8,
+    "mashTunLoss": 0.12,
+    "evaporationRate": 0.28753993610223644,
+    "fermenterVolumeBeforeTopUp": 5.6,
+    "postBoilKettleVol": 5.958333333333333,
+    "calcAromaHopUtilization": true,
+    "spargeWaterMax": null,
+    "fermenterVolume": 5.6,
+    "spargeWaterFormula": "BoilVolumeL - MashWaterL + (GrainAmountKg * GrainAbsorptionRate) + MashTunLossL",
+    "hopstandTemperature": 80,
+    "spargeWaterOverflow": "Top-Up",
+    "efficiencyType": "Fermenter",
+    "waterCalculation": "Default",
+    "mashWaterMax": 12,
+    "calcMashEfficiency": true,
+    "grainAbsorptionRate": 0.96,
+    "_version": "2.5.1",
+    "mashTunDeadSpace": 0,
+    "calcStrikeWaterTemperature": true,
+    "hidden": false,
+    "_id": "pR456mzqgk5yYzbjGK9yv4h32Xhts7",
+    "aromaHopUtilization": 0.23,
+    "boilTime": 10,
+    "fermenterLoss": 0.6,
+    "mashWaterFormula": "(GrainAmountKg * WaterGrainRatio) + MashTunDeadSpaceL",
+    "_timestamp": {
+      "seconds": 1609523644,
+      "nanoseconds": 945000000
+    },
+    "name": "01 Brouwpunt 5L (10min) (rev 4)",
+    "_timestamp_ms": 1609523644945,
+    "brewhouseEfficiency": 71.8,
+    "hopUtilization": 1,
+    "boilSize": 6.26,
+    "spargeWaterMin": null,
+    "fermenterLossEstimate": 0
+  },
+  "yeasts": [
+    {
+      "productId": "",
+      "laboratory": "",
+      "type": "Other",
+      "attenuation": 75,
+      "fermentsAll": false,
+      "name": "Omega Lutra",
+      "userNotes": "Ferment at 85f",
+      "amount": 0.3,
+      "form": "Liquid",
+      "unit": "pkg"
+    }
+  ],
+  "searchTags": [],
+  "styleFg": false,
+  "og": 1.040413478,
+  "data": {
+    "mashFermentablesAmount": 0,
+    "allDiastaticPower": true,
+    "mashFermentables": [],
+    "otherFermentablesAmount": 0.606,
+    "otherFermentables": [
+      {
+        "hidden": false,
+        "origin": "US",
+        "usedIn": "",
+        "_timestamp": {
+          "seconds": 1605037151,
+          "nanoseconds": 150000000
+        },
+        "inventory": 7.711099,
+        "ibuPerAmount": null,
+        "_created": {
+          "seconds": 1603031213,
+          "nanoseconds": 207000000
+        },
+        "potential": 1.046,
+        "supplier": "Briess",
+        "substitutes": "",
+        "diastaticPower": null,
+        "lovibond": 1.3,
+        "percentage": 100,
+        "userNotes": "",
+        "moisture": null,
+        "_version": "2.4.10",
+        "notFermentable": false,
+        "type": "Sugar",
+        "costPerAmount": null,
+        "color": 1,
+        "potentialPercentage": 99,
+        "notes": "",
+        "_id": "default-adc5cec",
+        "manufacturingDate": null,
+        "amount": 0.606,
+        "protein": null,
+        "name": "Dextrose",
+        "attenuation": 1.22,
+        "bestBeforeDate": null,
+        "_timestamp_ms": 1605037151150,
+        "grainCategory": null
+      }
+    ],
+    "mashWaterAmount": 0,
+    "spargeWaterAmount": 0,
+    "mashVolumeSurplus": 0,
+    "topUpWater": 6.38,
+    "batchSpargeWaterAmount1": null,
+    "batchSpargeWaterAmount2": null,
+    "batchSpargeWaterAmount3": null,
+    "batchSpargeWaterAmount4": null,
+    "hltWaterAmount": 6.38,
+    "totalWaterAmount": 6.38,
+    "strikeTemp": null,
+    "mashVolume": null
+  },
+  "abv": 6.43,
+  "attenuation": 1.22,
+  "rbRatio": 0,
+  "mashEfficiency": 73.3,
+  "thumb": "data:image/jpeg;base64,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",
+  "carbonation": 2.4,
+  "fgEstimated": 0.991,
+  "primaryTemp": 29.444444,
+  "styleOg": true,
+  "style": {
+    "abvMax": "6",
+    "fgMin": 0.994,
+    "buGuMax": 2.94,
+    "_id": "4vSlKbLapYRt1t9kx4pmKN9LQPjIeY",
+    "ogMin": null,
+    "styleGuide": "CUSTOM",
+    "buGuMin": 0.15,
+    "lovibondMax": 0,
+    "name": "Hard Seltzer",
+    "lovibondMin": 0,
+    "rbrMax": 3.9,
+    "colorMax": 0,
+    "ogMax": 1.04,
+    "fgMax": 1,
+    "colorMin": 0,
+    "styleLetter": "",
+    "abvMin": "4",
+    "categoryNumber": "",
+    "rbrMin": 0.2
+  },
+  "_origin": "CxmT6BEOvhecVaZoguMU5VhnH1YXAS",
+  "efficiency": 71.8,
+  "_created": {
+    "seconds": 1607702139,
+    "nanoseconds": 646000000
+  },
+  "path": "",
+  "tags": null,
+  "fermentation": {
+    "steps": [
+      {
+        "stepTemp": 29.444444,
+        "ramp": null,
+        "stepTime": 5,
+        "displayStepTemp": 85,
+        "type": "Primary",
+        "displayPressure": null,
+        "pressure": null
+      }
+    ],
+    "name": "Ale",
+    "_id": "default"
+  },
+  "type": "Extract",
+  "carbonationStyle": null,
+  "manualFg": false,
+  "teaser": "",
+  "fermentables": [
+    {
+      "hidden": false,
+      "origin": "US",
+      "usedIn": "",
+      "_timestamp": {
+        "seconds": 1605037151,
+        "nanoseconds": 150000000
+      },
+      "inventory": 7.711099,
+      "ibuPerAmount": null,
+      "_created": {
+        "seconds": 1603031213,
+        "nanoseconds": 207000000
+      },
+      "potential": 1.046,
+      "supplier": "Briess",
+      "substitutes": "",
+      "diastaticPower": null,
+      "lovibond": 1.3,
+      "percentage": 100,
+      "userNotes": "",
+      "moisture": null,
+      "_version": "2.4.10",
+      "notFermentable": false,
+      "type": "Sugar",
+      "costPerAmount": null,
+      "color": 1,
+      "potentialPercentage": 99,
+      "notes": "",
+      "_id": "default-adc5cec",
+      "manufacturingDate": null,
+      "amount": 0.606,
+      "protein": null,
+      "name": "Dextrose",
+      "attenuation": 1.22,
+      "bestBeforeDate": null,
+      "_timestamp_ms": 1605037151150,
+      "grainCategory": null
+    }
+  ],
+  "_uid": "f8vzySfCNzOXgK7PVc1TpOuM5m22",
+  "styleColor": true,
+  "batchSize": 5.6,
+  "ibu": 0,
+  "_timestamp_ms": 1621786540121,
+  "styleConformity": false,
+  "hops": [],
+  "avgWeightedHopstandTemp": 80,
+  "boilSize": 6.26,
+  "hidden": false,
+  "buGuRatio": 0,
+  "color": 1.4,
+  "origin": null,
+  "_version": "2.7.6",
+  "miscs": [
+    {
+      "type": "Other",
+      "hidden": false,
+      "time": 0,
+      "unit": "g",
+      "inventory": 56,
+      "userNotes": "",
+      "amount": 9.128,
+      "_created": {
+        "seconds": 1607703376,
+        "nanoseconds": 753000000
+      },
+      "_version": "2.5.0",
+      "notes": "",
+      "_timestamp": {
+        "seconds": 1607703447,
+        "nanoseconds": 773000000
+      },
+      "use": "Boil",
+      "amountPerL": 1.479363491,
+      "bestBeforeDate": null,
+      "_id": "dlJ9UMQ72tAcKATzcAMLEihWV5vOnw",
+      "_timestamp_ms": 1607703447773,
+      "manufacturingDate": null,
+      "substitutes": "",
+      "name": "Propper yeast nutrient"
+    },
+    {
+      "_id": "default-90407a",
+      "time": null,
+      "substitutes": "",
+      "userNotes": "",
+      "amountPerL": null,
+      "name": "Blueberry Extract",
+      "bestBeforeDate": null,
+      "use": "Secondary",
+      "timeIsDays": true,
+      "type": "Flavor",
+      "notes": "",
+      "manufacturingDate": null,
+      "amount": 38.5,
+      "unit": "ml"
+    }
+  ],
+  "defaults": {
+    "preferred": "metric",
+    "abv": "simple",
+    "attenuation": "normal",
+    "color": "ebc",
+    "grainColor": "default",
+    "gravity": "sg",
+    "ibu": "tinseth",
+    "temp": "c",
+    "volume": "l",
+    "weight": "kg",
+    "hop": "g",
+    "pressure": "bar",
+    "carbonation": "vol",
+    "altitude": "m"
+  },
+  "img": "users/f8vzySfCNzOXgK7PVc1TpOuM5m22/images/recipes/6JUt7684q9iJzKOp6Vu6bp975j0eso/6JUt7684q9iJzKOp6Vu6bp975j0eso.jpeg",
+  "boilTime": 10,
+  "postBoilGravity": 1.040413478,
+  "fgFormula": "normal",
+  "notes": "https://omegayeast.com/4-day-lutra-hard-seltzer-recipe\nRecipe from Omega website\nUse RO or distilled water for a clear seltzer \nAdd extract flavoring to taste. I found that adding 2 oz to start and go from there",
+  "_public": false,
+  "ibuFormula": "tinseth",
+  "_ev": 1.1,
+  "extraGravity": 0,
+  "totalGravity": 1.040413478
+}
