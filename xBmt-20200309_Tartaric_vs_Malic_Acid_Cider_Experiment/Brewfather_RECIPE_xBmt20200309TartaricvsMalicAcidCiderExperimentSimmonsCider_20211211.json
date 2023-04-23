@@ -1,0 +1,549 @@
+{
+  "styleFg": true,
+  "yeasts": [
+    {
+      "form": "Liquid",
+      "productId": "A40",
+      "name": "Bubbles",
+      "unit": "pkg",
+      "laboratory": "Imperial Yeast",
+      "type": "Ale",
+      "attenuation": 92.5,
+      "_id": null,
+      "amount": 0.5
+    }
+  ],
+  "fermentableIbu": 0,
+  "hops": [],
+  "styleOg": false,
+  "abv": 4.2,
+  "path": "",
+  "data": {
+    "mashFermentablesAmount": 5.6,
+    "allDiastaticPower": false,
+    "totalDiastaticPower": 0,
+    "mashFermentables": [
+      {
+        "amount": 5.6,
+        "origin": "US",
+        "percentage": 100,
+        "name": "Apple Juice - Store Bought",
+        "potentialPercentage": 13.0972259,
+        "supplier": "",
+        "_id": null,
+        "addAfterBoil": "FALSE",
+        "potential": 1.0060247,
+        "type": "Grain",
+        "grainCategory": "Base",
+        "color": 5
+      }
+    ],
+    "otherFermentablesAmount": 0,
+    "otherFermentables": [],
+    "mashWaterAmount": 31.36,
+    "spargeWaterAmount": 0,
+    "mashVolumeSurplus": 0,
+    "topUpWater": 0,
+    "batchSpargeWaterAmount1": null,
+    "batchSpargeWaterAmount2": null,
+    "batchSpargeWaterAmount3": null,
+    "batchSpargeWaterAmount4": null,
+    "hltWaterAmount": 0,
+    "totalWaterAmount": 31.36,
+    "strikeTemp": null,
+    "mashVolume": 35.112
+  },
+  "carbonationStyle": null,
+  "ogPlato": 8.9,
+  "firstWortGravity": null,
+  "author": "Matt Del Fiacco",
+  "buGuRatio": 0,
+  "_type": "recipe",
+  "ibu": 0,
+  "mash": {
+    "_id": null,
+    "steps": [
+      {
+        "name": "Mash In",
+        "stepTime": 75,
+        "type": "Infusion",
+        "stepTemp": 65.5555556,
+        "rampTime": 2
+      }
+    ],
+    "name": "Single Infusion, Light Body, No Mash Out"
+  },
+  "equipment": {
+    "efficiencyType": "Fermenter",
+    "name": "00 Cider",
+    "_created": {
+      "seconds": 1603535277,
+      "nanoseconds": 439000000
+    },
+    "hopUtilization": 1,
+    "mashWaterVolumeLimitEnabled": true,
+    "aromaHopUtilization": 0.18,
+    "waterCalculation": "No Sparge",
+    "_version": "2.4.10",
+    "evaporationRate": null,
+    "brewhouseEfficiency": 70,
+    "fermenterTopUp": null,
+    "boilSize": 0,
+    "calcBoilVolume": false,
+    "calcMashEfficiency": false,
+    "spargeWaterFormula": "0",
+    "fermenterVolumeBeforeTopUp": 5.6,
+    "mashWaterFormula": "BoilVolumeColdL + (GrainAmountKg * GrainAbsorptionRate) + MashTunLossL",
+    "postBoilKettleVol": 5.833333333333333,
+    "fermenterLoss": 0.6,
+    "efficiency": 70,
+    "mashEfficiency": 70,
+    "batchSize": 5.6,
+    "mashTunLoss": null,
+    "_timestamp_ms": 1605810092202,
+    "calcAromaHopUtilization": true,
+    "hopstandTemperature": 77,
+    "boilOffPerHr": 0.01,
+    "trubChillerLoss": 0,
+    "spargeWaterOverflow": "Top-Up",
+    "hidden": false,
+    "boilTime": 0,
+    "bottlingVolume": 5,
+    "fermenterLossEstimate": 0,
+    "fermenterVolume": 5.6,
+    "_timestamp": {
+      "seconds": 1605810092,
+      "nanoseconds": 202000000
+    },
+    "mashTunDeadSpace": null,
+    "_id": "o4GjGwhKHGKkIh6ek6F7IqFytOThnr"
+  },
+  "mashEfficiency": 70,
+  "color": 19.3,
+  "boilTime": 0,
+  "_id": "Y3nd9vdxUVyhTCTOjsqe49TCZD45q0",
+  "img": "users/f8vzySfCNzOXgK7PVc1TpOuM5m22/images/recipes/Y3nd9vdxUVyhTCTOjsqe49TCZD45q0/Y3nd9vdxUVyhTCTOjsqe49TCZD45q0.jpeg",
+  "yeastToleranceExceededBy": null,
+  "_created": {
+    "seconds": 1597765811,
+    "nanoseconds": 248000000
+  },
+  "styleIbu": true,
+  "hidden": false,
+  "ibuFormula": "tinseth",
+  "name": "xBmt-20200309 Tartaric vs. Malic Acid Cider Experiment | Simmons' Cider",
+  "defaults": {
+    "preferred": "metric",
+    "abv": "simple",
+    "attenuation": "normal",
+    "color": "ebc",
+    "grainColor": "default",
+    "gravity": "sg",
+    "ibu": "tinseth",
+    "temp": "c",
+    "volume": "l",
+    "weight": "kg",
+    "hop": "g",
+    "pressure": "bar",
+    "carbonation": "vol",
+    "altitude": "m"
+  },
+  "_version": "2.8.0",
+  "fgFormula": "normal",
+  "_init": true,
+  "styleColor": true,
+  "fermentablesTotalAmount": 5.6,
+  "preBoilGravity": 1.007,
+  "boilSize": 28,
+  "styleBuGu": false,
+  "hopsTotalAmount": 0,
+  "hopStandMinutes": 0,
+  "manualFg": false,
+  "searchTags": [],
+  "_uid": "f8vzySfCNzOXgK7PVc1TpOuM5m22",
+  "style": {
+    "lovibondMin": 2,
+    "category": "Standard Cider and Perry",
+    "origin": null,
+    "ogMin": 1.045,
+    "categoryNumber": null,
+    "flavor": null,
+    "fgMax": 1.02,
+    "styleLetter": "A",
+    "examples": "Uncle John’s Fruit House Winery Apple Hard Cider, Tandem Ciders Pretty Penny (MI), Bellwether Spyglass (NY), West County Pippin (MA), White Winter Hard Apple Cider (WI), Wandering Aengus Ciderworks Bloom (OR), Æppeltreow Appely Brut and Doux (WI).",
+    "mouthfeel": null,
+    "appearance": null,
+    "abvMax": 8,
+    "ibuMin": 0,
+    "colorMax": 50,
+    "fgMin": 0.995,
+    "abvMin": 5,
+    "buGuMin": 0.09,
+    "aroma": null,
+    "buGuMax": 1.82,
+    "ogMax": 1.065,
+    "styleGuide": "BJCP 2015",
+    "lovibondMax": 50,
+    "notes": "A New World Cider is made from culinary/table apples, with wild or crab apples often used for acidity/tannin balance. Compared to other styles in this category, these ciders are generally relatively lower in tannin and higher in acidity. “New World” references the style, not a location, as ciders in this style are also made in eastern England, Australia, Germany, etc. A refreshing drink of some substance – not bland or watery. Sweet ciders must not be cloying. Dry ciders must not be too austere.",
+    "rbrMax": 1.99,
+    "rbrMin": 0.1,
+    "history": null,
+    "name": "New World Cider",
+    "ibuMax": 0,
+    "ingredients": "Varieties: Common (Winesap, Macintosh, Golden Delicious, Braeburn, Jonathan), multi-use (Northern Spy, Russets, Baldwin), crabapples, any suitable wildings.",
+    "colorMin": 2,
+    "profile": "OG, SRM and ABV will vary.",
+    "type": "Cider"
+  },
+  "notes": "http://brulosophy.com/2020/03/09/hard-cider-tartaric-vs-malic-acid-adjustments-when-using-store-bought-juice-experiment-results/",
+  "_timestamp": "2021-12-11T12:44:30.999Z",
+  "nutrition": {
+    "calories": {
+      "alcohol": 23.236177554310082,
+      "carbs": 8.472642857208966,
+      "total": 31.70882041151905,
+      "kJ": 132.6697046017957
+    },
+    "carbs": {
+      "total": 2.1439118533098096
+    }
+  },
+  "styleAbv": false,
+  "styleRbr": false,
+  "primaryTemp": 19.4,
+  "fgEstimated": 1.003,
+  "sumDryHopPerLiter": 0,
+  "type": "Extract",
+  "batchSize": 5.6,
+  "efficiency": 70,
+  "rbRatio": 0,
+  "_timestamp_ms": 1639226670999,
+  "avgWeightedHopstandTemp": 77,
+  "postBoilGravity": 1.035325783,
+  "miscs": [],
+  "fg": 1.003,
+  "_share": null,
+  "carbonation": 2.3,
+  "styleConformity": false,
+  "attenuation": 0.912,
+  "fermentation": {
+    "_id": null,
+    "steps": [
+      {
+        "type": "Primary",
+        "stepTime": 10,
+        "stepTemp": 19.4
+      },
+      {
+        "stepTime": 10,
+        "type": "Secondary",
+        "stepTemp": 19.4
+      },
+      {
+        "stepTemp": 18.3,
+        "type": "Conditioning",
+        "stepTime": 7
+      }
+    ],
+    "name": "Imported"
+  },
+  "thumb": "data:image/jpeg;base64,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",
+  "fermentables": [
+    {
+      "amount": 5.6,
+      "origin": "US",
+      "percentage": 100,
+      "name": "Apple Juice - Store Bought",
+      "potentialPercentage": 13.0972259,
+      "supplier": "",
+      "_id": null,
+      "addAfterBoil": "FALSE",
+      "potential": 1.0060247,
+      "type": "Grain",
+      "grainCategory": "Base",
+      "color": 5
+    }
+  ],
+  "og": 1.035325783,
+  "water": {
+    "mashWaterAmount": null,
+    "settings": {
+      "calciumChloride": {
+        "auto": true,
+        "form": "liquid",
+        "mash": true,
+        "sparge": false
+      },
+      "calciumCarbonate": {
+        "auto": false,
+        "sparge": false,
+        "mash": false
+      },
+      "calciumHydroxide": {
+        "sparge": false,
+        "auto": false,
+        "mash": false
+      },
+      "calciumSulfate": {
+        "sparge": false,
+        "auto": false,
+        "mash": false
+      },
+      "sodiumMetabisulfite": {
+        "auto": false,
+        "mash": false,
+        "sparge": false
+      },
+      "magnesiumSulfate": {
+        "auto": true,
+        "sparge": false,
+        "mash": true
+      },
+      "magnesiumChloride": {
+        "mash": false,
+        "auto": false,
+        "sparge": false
+      },
+      "adjustSparge": true,
+      "sodiumChloride": {
+        "sparge": false,
+        "auto": true,
+        "mash": true
+      },
+      "sodiumBicarbonate": {
+        "sparge": false,
+        "auto": true,
+        "mash": true
+      }
+    },
+    "total": {
+      "name": "NL Hoofddorp Rein Tap Water (2020-Q1 WQR)",
+      "soClRatio": null,
+      "cations": 5.701,
+      "sulfate": 44,
+      "alkalinity": 145.8643,
+      "anions": 3.833,
+      "bicarbonateMeqL": 2.9172676019404746,
+      "hardness": 139,
+      "residualAlkalinity": 111.2869,
+      "bicarbonate": 178,
+      "ionBalance": 10,
+      "_version": "2.3.8",
+      "_timestamp_ms": 1597429213384,
+      "type": "source",
+      "sodium": 67,
+      "ionBalanceOff": true,
+      "magnesium": 9,
+      "calcium": 41,
+      "_timestamp": {
+        "seconds": 1597429213,
+        "nanoseconds": 384000000
+      },
+      "ph": 8.1,
+      "residualAlkalinityMeqLCalc": 2.0543,
+      "_id": "c6KMkaP0m0ZNr1CaOm93XMahQcxWJI",
+      "hidden": false,
+      "_created": {
+        "seconds": 1590236754,
+        "nanoseconds": 620000000
+      },
+      "chloride": 0
+    },
+    "source": {
+      "name": "NL Hoofddorp Rein Tap Water (2020-Q1 WQR)",
+      "soClRatio": null,
+      "cations": 5.701,
+      "sulfate": 44,
+      "alkalinity": 145.8643,
+      "anions": 3.833,
+      "bicarbonateMeqL": 2.9172676019404746,
+      "hardness": 139,
+      "residualAlkalinity": 111.2869,
+      "bicarbonate": 178,
+      "ionBalance": 10,
+      "_version": "2.3.8",
+      "_timestamp_ms": 1597429213384,
+      "type": "source",
+      "sodium": 67,
+      "ionBalanceOff": true,
+      "magnesium": 9,
+      "calcium": 41,
+      "_timestamp": {
+        "seconds": 1597429213,
+        "nanoseconds": 384000000
+      },
+      "ph": 8.1,
+      "residualAlkalinityMeqLCalc": 2.0543,
+      "_id": "c6KMkaP0m0ZNr1CaOm93XMahQcxWJI",
+      "hidden": false,
+      "_created": {
+        "seconds": 1590236754,
+        "nanoseconds": 620000000
+      }
+    },
+    "mashAdjustments": {
+      "calciumCarbonate": 0,
+      "calciumSulfate": 0,
+      "sodiumMetabisulfitePPM": 0,
+      "calciumChloride": null,
+      "sodiumBicarbonate": null,
+      "sulfate": 0,
+      "magnesiumSulfate": null,
+      "sodiumMetabisulfite": 0,
+      "chloride": 0,
+      "volume": 31.36,
+      "magnesium": 0,
+      "acids": [
+        {
+          "alkalinityMeqL": 0,
+          "amount": 0,
+          "type": "lactic",
+          "concentration": 80
+        }
+      ],
+      "calcium": 0,
+      "bicarbonate": 0,
+      "sodiumChloride": null,
+      "magnesiumChloride": 0,
+      "calciumHydroxide": 0,
+      "sodium": 0,
+      "ltDWB": 0,
+      "ltAMS": 0
+    },
+    "spargeWaterAmount": null,
+    "enableSpargeAdjustments": true,
+    "spargeAdjustments": {
+      "volume": 0,
+      "calciumCarbonate": 0,
+      "sodiumBicarbonate": 0,
+      "calciumHydroxide": 0,
+      "calciumSulfate": 0,
+      "magnesiumSulfate": 0,
+      "calciumChloride": 0,
+      "magnesiumChloride": 0,
+      "sodiumChloride": 0,
+      "sodiumMetabisulfite": 0,
+      "ltDWB": 0,
+      "ltAMS": 0,
+      "acids": [
+        {
+          "concentration": 80,
+          "amount": 0,
+          "type": "lactic"
+        }
+      ],
+      "sodiumMetabisulfitePPM": 0,
+      "calcium": 0,
+      "magnesium": 0,
+      "sodium": 0,
+      "chloride": 0,
+      "sulfate": 0,
+      "bicarbonate": 0
+    },
+    "sourceTargetDiff": null,
+    "sparge": {
+      "name": "NL Hoofddorp Rein Tap Water (2020-Q1 WQR)",
+      "soClRatio": null,
+      "cations": 5.701,
+      "sulfate": 44,
+      "alkalinity": 145.8643,
+      "anions": 3.833,
+      "bicarbonateMeqL": 2.9172676019404746,
+      "hardness": 139,
+      "residualAlkalinity": 111.2869,
+      "bicarbonate": 178,
+      "ionBalance": 10,
+      "_version": "2.3.8",
+      "_timestamp_ms": 1597429213384,
+      "type": "source",
+      "sodium": 67,
+      "ionBalanceOff": true,
+      "magnesium": 9,
+      "calcium": 41,
+      "_timestamp": {
+        "seconds": 1597429213,
+        "nanoseconds": 384000000
+      },
+      "ph": 8.1,
+      "residualAlkalinityMeqLCalc": 2.0543,
+      "_id": "c6KMkaP0m0ZNr1CaOm93XMahQcxWJI",
+      "hidden": false,
+      "_created": {
+        "seconds": 1590236754,
+        "nanoseconds": 620000000
+      },
+      "chloride": 0
+    },
+    "mash": {
+      "name": "NL Hoofddorp Rein Tap Water (2020-Q1 WQR)",
+      "soClRatio": null,
+      "cations": 5.701,
+      "sulfate": 44,
+      "alkalinity": 145.8643,
+      "anions": 3.833,
+      "bicarbonateMeqL": 2.9172676019404746,
+      "hardness": 139,
+      "residualAlkalinity": 111.2869,
+      "bicarbonate": 178,
+      "ionBalance": 10,
+      "_version": "2.3.8",
+      "_timestamp_ms": 1597429213384,
+      "type": "source",
+      "sodium": 67,
+      "ionBalanceOff": true,
+      "magnesium": 9,
+      "calcium": 41,
+      "_timestamp": {
+        "seconds": 1597429213,
+        "nanoseconds": 384000000
+      },
+      "ph": 8.1,
+      "residualAlkalinityMeqLCalc": 2.0543,
+      "_id": "c6KMkaP0m0ZNr1CaOm93XMahQcxWJI",
+      "hidden": false,
+      "_created": {
+        "seconds": 1590236754,
+        "nanoseconds": 620000000
+      },
+      "chloride": 0
+    },
+    "mashPh": 5.85,
+    "totalAdjustments": {
+      "volume": 31.36,
+      "calciumCarbonate": 0,
+      "sodiumBicarbonate": 0,
+      "calciumHydroxide": 0,
+      "calciumSulfate": 0,
+      "magnesiumSulfate": 0,
+      "calciumChloride": 0,
+      "magnesiumChloride": 0,
+      "sodiumChloride": 0,
+      "sodiumMetabisulfite": 0,
+      "ltDWB": 0,
+      "ltAMS": 0,
+      "sodiumMetabisulfitePPM": 0,
+      "calcium": 0,
+      "magnesium": 0,
+      "sodium": 0,
+      "chloride": 0,
+      "sulfate": 0,
+      "bicarbonate": 0
+    },
+    "totalTargetDiff": null,
+    "acidPhAdjustment": 0,
+    "mashTargetDiff": null,
+    "mashPhDistilled": 5.62,
+    "spargeTargetDiff": null,
+    "spargeAcidPhAdjustment": 0,
+    "diluted": null,
+    "dilutionPercentage": null,
+    "meta": {
+      "equalSourceTotal": true
+    }
+  },
+  "tags": null,
+  "_ev": 1.1,
+  "extraGravity": 0,
+  "totalGravity": 1.035325783,
+  "diastaticPower": 0
+}

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<RECIPES>
+    <RECIPE>
+        <NAME>xBmt&#45;&#50;&#48;&#50;&#48;&#48;&#51;&#48;&#57;&#32;Tartaric&#32;vs&#46;&#32;Malic&#32;Acid&#32;Cider&#32;Experiment&#32;|&#32;Simmons&#39;&#32;Cider</NAME>
+        <VERSION>1</VERSION>
+        <TYPE>Extract</TYPE>
+        <NOTES>http&#58;&#47;&#47;brulosophy&#46;com&#47;&#50;&#48;&#50;&#48;&#47;&#48;&#51;&#47;&#48;&#57;&#47;hard&#45;cider&#45;tartaric&#45;vs&#45;malic&#45;acid&#45;adjustments&#45;when&#45;using&#45;store&#45;bought&#45;juice&#45;experiment&#45;results&#47;</NOTES>
+        <STYLE>
+            <NAME>New&#32;World&#32;Cider</NAME>
+            <CATEGORY>Standard&#32;Cider&#32;and&#32;Perry</CATEGORY>
+            <VERSION>1</VERSION>
+            <CATEGORY_NUMBER>NaN</CATEGORY_NUMBER>
+            <STYLE_LETTER>A</STYLE_LETTER>
+            <STYLE_GUIDE>BJCP&#32;&#50;&#48;&#49;&#53;</STYLE_GUIDE>
+            <TYPE>Cider</TYPE>
+            <OG_MIN>1.045</OG_MIN>
+            <OG_MAX>1.065</OG_MAX>
+            <FG_MIN>0.995</FG_MIN>
+            <FG_MAX>1.02</FG_MAX>
+            <IBU_MIN>0</IBU_MIN>
+            <IBU_MAX>0</IBU_MAX>
+            <COLOR_MIN>2</COLOR_MIN>
+            <COLOR_MAX>50</COLOR_MAX>
+        </STYLE>
+        <BREWER>Matt&#32;Del&#32;Fiacco</BREWER>
+        <BATCH_SIZE>5.6</BATCH_SIZE>
+        <BOIL_SIZE>28</BOIL_SIZE>
+        <BOIL_TIME>0</BOIL_TIME>
+        <EFFICIENCY>70</EFFICIENCY>
+        <OG>1.035</OG>
+        <FG>1.003</FG>
+        <ABV>4.2 %</ABV>
+        <EST_ABV>4.2 %</EST_ABV>
+        <IBU>0</IBU>
+        <EST_OG>1.035 SG</EST_OG>
+        <EST_FG>1.003 SG</EST_FG>
+        <EST_COLOR>19.3 SRM</EST_COLOR>
+        <CARBONATION>2.3</CARBONATION>
+        <FERMENTABLES>
+            <FERMENTABLE>
+                <BF_ID/>
+                <NAME>Apple&#32;Juice&#32;&#45;&#32;Store&#32;Bought</NAME>
+                <SUPPLIER/>
+                <ORIGIN>US</ORIGIN>
+                <VERSION>1</VERSION>
+                <TYPE>Grain</TYPE>
+                <AMOUNT>5.6</AMOUNT>
+                <YIELD>13.0972259</YIELD>
+                <COLOR>5</COLOR>
+                <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+                <NOT_FERMENTABLE>false</NOT_FERMENTABLE>
+                <IBU_GAL_PER_LB>NaN</IBU_GAL_PER_LB>
+            </FERMENTABLE>
+        </FERMENTABLES>
+        <YEASTS>
+            <YEAST>
+                <BF_ID/>
+                <NAME>Bubbles</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Ale</TYPE>
+                <FORM>Liquid</FORM>
+                <AMOUNT>0.5</AMOUNT>
+                <LABORATORY>Imperial&#32;Yeast</LABORATORY>
+                <PRODUCT_ID>A&#52;&#48;</PRODUCT_ID>
+                <DISPLAY_AMOUNT>0.5 pkg</DISPLAY_AMOUNT>
+                <ATTENUATION>92.5</ATTENUATION>
+            </YEAST>
+        </YEASTS>
+        <MASH>
+            <BF_ID/>
+            <NAME>Single&#32;Infusion&#44;&#32;Light&#32;Body&#44;&#32;No&#32;Mash&#32;Out</NAME>
+            <VERSION>1</VERSION>
+            <GRAIN_TEMP>20</GRAIN_TEMP>
+            <MASH_STEPS>
+                <MASH_STEP>
+                    <NAME>Mash&#32;In</NAME>
+                    <VERSION>1</VERSION>
+                    <TYPE>Infusion</TYPE>
+                    <STEP_TEMP>65.6</STEP_TEMP>
+                    <STEP_TIME>75</STEP_TIME>
+                    <INFUSE_AMOUNT>31.36</INFUSE_AMOUNT>
+                </MASH_STEP>
+            </MASH_STEPS>
+        </MASH>
+        <EQUIPMENT>
+            <NAME>&#48;&#48;&#32;Cider</NAME>
+            <VERSION>1</VERSION>
+            <BOIL_SIZE>28</BOIL_SIZE>
+            <BATCH_SIZE>5.6</BATCH_SIZE>
+            <TRUB_CHILLER_LOSS>0</TRUB_CHILLER_LOSS>
+            <LAUTER_DEADSPACE/>
+            <BOIL_TIME>0</BOIL_TIME>
+            <HOP_UTILIZATION>100</HOP_UTILIZATION>
+            <EVAP_RATE>Infinity</EVAP_RATE>
+            <CALC_BOIL_VOLUME>false</CALC_BOIL_VOLUME>
+        </EQUIPMENT>
+        <BF_FERMENTATION_PROFILE_ID/>
+        <BF_FERMENTATION_PROFILE_NAME>Imported</BF_FERMENTATION_PROFILE_NAME>
+        <FERMENTATION_STAGES>3</FERMENTATION_STAGES>
+        <PRIMARY_AGE>10</PRIMARY_AGE>
+        <PRIMARY_TEMP>19.4</PRIMARY_TEMP>
+        <SECONDARY_AGE>10</SECONDARY_AGE>
+        <SECONDARY_TEMP>19.4</SECONDARY_TEMP>
+        <TERTIARY_AGE>7</TERTIARY_AGE>
+        <TERTIARY_TEMP>18.3</TERTIARY_TEMP>
+    </RECIPE>
+</RECIPES>
