@@ -1,0 +1,783 @@
+{
+  "fermentables": [
+    {
+      "percentage": 100,
+      "bestBeforeDate": null,
+      "costPerAmount": null,
+      "substitutes": "",
+      "friability": null,
+      "supplier": "De Olmenhorst",
+      "potential": 1.005,
+      "amount": 5.6,
+      "hidden": false,
+      "lovibond": 0.9,
+      "acid": null,
+      "grainCategory": null,
+      "protein": null,
+      "_timestamp_ms": 1622132303616,
+      "diastaticPower": null,
+      "name": "Apple Juice",
+      "coarseFineDiff": null,
+      "manufacturingDate": null,
+      "type": "Other",
+      "origin": "NL",
+      "_created": {
+        "seconds": 1605809837,
+        "nanoseconds": 169000000
+      },
+      "cgdb": null,
+      "maxInBatch": null,
+      "userNotes": "",
+      "_parent": "usC9M2z0Db7wfel6ll6Ge0DLZZhyXX",
+      "fan": null,
+      "attenuation": null,
+      "potentialPercentage": 11.8,
+      "fgdb": null,
+      "notFermentable": false,
+      "_timestamp": {
+        "seconds": 1622132303,
+        "nanoseconds": 616000000
+      },
+      "_id": "sWkUqKHGsSaFZwwIoP58CkcqmD6YHH",
+      "usedIn": "",
+      "color": 0.507614,
+      "ibuPerAmount": null,
+      "_version": "2.7.6",
+      "moisture": null,
+      "inventory": null,
+      "notes": ""
+    },
+    {
+      "protein": null,
+      "acid": null,
+      "bestBeforeDate": null,
+      "moisture": null,
+      "use": "Bottling",
+      "_created": {
+        "seconds": 1591526370,
+        "nanoseconds": 788000000
+      },
+      "_version": "2.7.6",
+      "ibuPerAmount": null,
+      "inventory": 0,
+      "hidden": false,
+      "potentialPercentage": 100,
+      "origin": "",
+      "diastaticPower": null,
+      "supplier": "Albert Heijn",
+      "fan": null,
+      "amount": 0.02,
+      "_timestamp_ms": 1620235655378,
+      "fgdb": null,
+      "_timestamp": {
+        "seconds": 1620235655,
+        "nanoseconds": 378000000
+      },
+      "maxInBatch": null,
+      "notFermentable": false,
+      "notes": "",
+      "name": "Sugar, Table (Sucrose)",
+      "attenuation": 1.22,
+      "type": "Sugar",
+      "excluded": true,
+      "color": 1.015228,
+      "potential": 1.046,
+      "substitutes": "",
+      "costPerAmount": 0.75,
+      "cgdb": null,
+      "_id": "default-132c22b",
+      "manufacturingDate": null,
+      "grainCategory": null,
+      "userNotes": "Albert Heijn (NL)",
+      "usedIn": "",
+      "percentage": 0,
+      "friability": null,
+      "coarseFineDiff": null
+    }
+  ],
+  "boilSize": 28,
+  "fgEstimated": 1.011,
+  "nutrition": {
+    "calories": {
+      "alcohol": 26.508316486065837,
+      "carbs": 17.304242992014906,
+      "total": 43.812559478080736,
+      "kJ": 183.3117488562898
+    },
+    "carbs": {
+      "total": 4.366677177215531
+    }
+  },
+  "firstWortGravity": null,
+  "mashEfficiency": 70,
+  "abv": 4.73,
+  "_id": "W3aaw06R8riETcG05DEF62syhk3udq",
+  "_type": "recipe",
+  "postBoilGravity": 1.045467015,
+  "searchTags": [],
+  "extraGravity": 0.001541255,
+  "styleAbv": null,
+  "equipment": {
+    "boilSize": 0,
+    "trubChillerLoss": 0,
+    "bottlingVolume": 5,
+    "mashTunLoss": null,
+    "spargeWaterFormula": "0",
+    "hopstandTemperature": 77,
+    "_id": "o4GjGwhKHGKkIh6ek6F7IqFytOThnr",
+    "calcMashEfficiency": false,
+    "postBoilKettleVol": 5.833333333333333,
+    "hopUtilization": 1,
+    "boilTime": 0,
+    "evaporationRate": null,
+    "fermenterLossEstimate": 0,
+    "spargeWaterOverflow": "Top-Up",
+    "fermenterTopUp": null,
+    "mashTunDeadSpace": null,
+    "mashEfficiency": 70,
+    "hidden": false,
+    "waterCalculation": "No Sparge",
+    "mashWaterVolumeLimitEnabled": true,
+    "boilOffPerHr": 0.01,
+    "fermenterVolumeBeforeTopUp": 5.6,
+    "_meta": {
+      "efficiencyIsCalculated": true,
+      "mashEfficiencyIsCalculated": false
+    },
+    "calcAromaHopUtilization": true,
+    "calcBoilVolume": false,
+    "_version": "2.4.10",
+    "_timestamp_ms": 1605810092202,
+    "_timestamp": {
+      "seconds": 1605810092,
+      "nanoseconds": 202000000
+    },
+    "batchSize": 5.6,
+    "_created": {
+      "seconds": 1603535277,
+      "nanoseconds": 439000000
+    },
+    "name": "00 Cider",
+    "efficiency": 70,
+    "fermenterLoss": 0.6,
+    "aromaHopUtilization": 0.18,
+    "mashWaterFormula": "BoilVolumeColdL + (GrainAmountKg * GrainAbsorptionRate) + MashTunLossL",
+    "fermenterVolume": 5.6,
+    "brewhouseEfficiency": 70,
+    "efficiencyType": "Fermenter"
+  },
+  "miscs": [
+    {
+      "use": "Boil",
+      "unit": "items",
+      "name": "Key Lime",
+      "type": "Flavor",
+      "amount": 1,
+      "time": 8
+    },
+    {
+      "time": null,
+      "name": "Black Tea bag",
+      "use": "Flameout",
+      "type": "Flavor",
+      "inventory": 0,
+      "amount": 1,
+      "_id": "Qv3wNQyb2qO9kIBRv1ivXguK5j5CaP",
+      "unit": "items",
+      "_timestamp": {
+        "seconds": 1622294888,
+        "nanoseconds": 815000000
+      }
+    },
+    {
+      "substitutes": "",
+      "time": null,
+      "_id": "8a0YDKWnk6kpa0rssQRr8MUqN3JBQV",
+      "unit": "g",
+      "type": "Other",
+      "_timestamp": {
+        "seconds": 1612036814,
+        "nanoseconds": 658000000
+      },
+      "inventory": null,
+      "_created": {
+        "seconds": 1591165938,
+        "nanoseconds": 723000000
+      },
+      "timeIsDays": false,
+      "_timestamp_ms": 1612036814658,
+      "costPerAmount": 0.495,
+      "_parent": "default-9mb13",
+      "notes": "",
+      "hidden": false,
+      "amount": 0.1,
+      "use": "Primary",
+      "name": "Lallemand Servomyces",
+      "bestBeforeDate": 0,
+      "lotNumber": "",
+      "manufacturingDate": null,
+      "userNotes": "Brouwstore (NL) 050.620.4",
+      "useFor": "",
+      "amountPerL": 0.01,
+      "_version": "2.6.1"
+    }
+  ],
+  "water": {
+    "enableSpargeAdjustments": true,
+    "totalTargetDiff": null,
+    "settings": {
+      "calciumCarbonate": {
+        "sparge": false,
+        "mash": false,
+        "auto": false
+      },
+      "calciumSulfate": {
+        "mash": true,
+        "sparge": true,
+        "auto": true
+      },
+      "adjustSparge": true,
+      "sodiumBicarbonate": {
+        "mash": true,
+        "sparge": true,
+        "auto": true
+      },
+      "magnesiumSulfate": {
+        "auto": true,
+        "sparge": true,
+        "mash": true
+      },
+      "calciumHydroxide": {
+        "mash": false,
+        "auto": false,
+        "sparge": false
+      },
+      "magnesiumChloride": {
+        "auto": false,
+        "mash": false,
+        "sparge": false
+      },
+      "sodiumChloride": {
+        "sparge": true,
+        "mash": true,
+        "auto": true
+      },
+      "sodiumMetabisulfite": {
+        "sparge": false,
+        "auto": false,
+        "mash": false
+      },
+      "calciumChloride": {
+        "mash": true,
+        "auto": true,
+        "sparge": true,
+        "form": "liquid"
+      }
+    },
+    "sourceTargetDiff": null,
+    "spargeAdjustments": {
+      "volume": 0,
+      "calciumCarbonate": 0,
+      "sodiumBicarbonate": 0,
+      "calciumHydroxide": 0,
+      "calciumSulfate": 0,
+      "magnesiumSulfate": 0,
+      "calciumChloride": 0,
+      "magnesiumChloride": 0,
+      "sodiumChloride": 0,
+      "sodiumMetabisulfite": 0,
+      "ltDWB": 0,
+      "ltAMS": 0,
+      "acids": [
+        {
+          "type": "lactic",
+          "concentration": 80,
+          "amount": 0
+        }
+      ],
+      "sodiumMetabisulfitePPM": 0,
+      "calcium": 0,
+      "magnesium": 0,
+      "sodium": 0,
+      "chloride": 0,
+      "sulfate": 0,
+      "bicarbonate": 0
+    },
+    "dilutionPercentage": null,
+    "spargeWaterAmount": null,
+    "meta": {
+      "equalSourceTotal": true
+    },
+    "source": {
+      "_created": {
+        "seconds": 1615929593,
+        "nanoseconds": 999000000
+      },
+      "chloride": 5,
+      "name": "02 NL Spa Reine Flat Mineral Water (www.ah.nl)",
+      "calcium": 5,
+      "hidden": false,
+      "type": "source",
+      "magnesium": 2,
+      "bicarbonateMeqL": 0.2786154451291465,
+      "_version": "2.7.6",
+      "bicarbonate": 17,
+      "_timestamp_ms": 1621973883194,
+      "ionBalance": 2,
+      "sulfate": 4,
+      "alkalinity": 13.9309,
+      "ph": 6,
+      "anions": 0.503,
+      "cations": 0.545,
+      "hardness": 21,
+      "residualAlkalinityMeqLCalc": 0.16012,
+      "ionBalanceOff": false,
+      "residualAlkalinity": 9.1836,
+      "sodium": 3,
+      "_timestamp": {
+        "seconds": 1621973883,
+        "nanoseconds": 194000000
+      },
+      "_id": "HAb1UmR5i0YiAJfCZ3ngwuOpMdssBy",
+      "soClRatio": 0.8
+    },
+    "mashWaterAmount": null,
+    "diluted": null,
+    "spargeTargetDiff": null,
+    "total": {
+      "_created": {
+        "seconds": 1615929593,
+        "nanoseconds": 999000000
+      },
+      "chloride": 5,
+      "name": "02 NL Spa Reine Flat Mineral Water (www.ah.nl)",
+      "calcium": 5,
+      "hidden": false,
+      "type": "source",
+      "magnesium": 2,
+      "bicarbonateMeqL": 0.2786154451291465,
+      "_version": "2.7.6",
+      "bicarbonate": 17,
+      "_timestamp_ms": 1621973883194,
+      "ionBalance": 2,
+      "sulfate": 4,
+      "alkalinity": 13.9309,
+      "ph": 6,
+      "anions": 0.503,
+      "cations": 0.545,
+      "hardness": 21,
+      "residualAlkalinityMeqLCalc": 0.16012,
+      "ionBalanceOff": false,
+      "residualAlkalinity": 9.1836,
+      "sodium": 3,
+      "_timestamp": {
+        "seconds": 1621973883,
+        "nanoseconds": 194000000
+      },
+      "_id": "HAb1UmR5i0YiAJfCZ3ngwuOpMdssBy",
+      "soClRatio": 0.8
+    },
+    "mashTargetDiff": null,
+    "mashAdjustments": {
+      "calciumSulfate": null,
+      "calcium": 0,
+      "sulfate": 0,
+      "magnesiumSulfate": null,
+      "chloride": 0,
+      "sodiumBicarbonate": null,
+      "volume": 26.88,
+      "ltAMS": 0,
+      "calciumCarbonate": 0,
+      "sodiumMetabisulfite": 0,
+      "ltDWB": 0,
+      "magnesiumChloride": 0,
+      "bicarbonate": 0,
+      "sodiumMetabisulfitePPM": 0,
+      "calciumChloride": null,
+      "magnesium": 0,
+      "sodiumChloride": null,
+      "sodium": 0,
+      "calciumHydroxide": 0,
+      "acids": [
+        {
+          "concentration": 80,
+          "amount": 0,
+          "type": "lactic"
+        }
+      ]
+    },
+    "totalAdjustments": {
+      "volume": 26.88,
+      "calciumCarbonate": 0,
+      "sodiumBicarbonate": 0,
+      "calciumHydroxide": 0,
+      "calciumSulfate": 0,
+      "magnesiumSulfate": 0,
+      "calciumChloride": 0,
+      "magnesiumChloride": 0,
+      "sodiumChloride": 0,
+      "sodiumMetabisulfite": 0,
+      "ltDWB": 0,
+      "ltAMS": 0,
+      "sodiumMetabisulfitePPM": 0,
+      "calcium": 0,
+      "magnesium": 0,
+      "sodium": 0,
+      "chloride": 0,
+      "sulfate": 0,
+      "bicarbonate": 0
+    },
+    "mash": {
+      "_created": {
+        "seconds": 1615929593,
+        "nanoseconds": 999000000
+      },
+      "chloride": 5,
+      "name": "02 NL Spa Reine Flat Mineral Water (www.ah.nl)",
+      "calcium": 5,
+      "hidden": false,
+      "type": "source",
+      "magnesium": 2,
+      "bicarbonateMeqL": 0.2786154451291465,
+      "_version": "2.7.6",
+      "bicarbonate": 17,
+      "_timestamp_ms": 1621973883194,
+      "ionBalance": 2,
+      "sulfate": 4,
+      "alkalinity": 13.9309,
+      "ph": 6,
+      "anions": 0.503,
+      "cations": 0.545,
+      "hardness": 21,
+      "residualAlkalinityMeqLCalc": 0.16012,
+      "ionBalanceOff": false,
+      "residualAlkalinity": 9.1836,
+      "sodium": 3,
+      "_timestamp": {
+        "seconds": 1621973883,
+        "nanoseconds": 194000000
+      },
+      "_id": "HAb1UmR5i0YiAJfCZ3ngwuOpMdssBy",
+      "soClRatio": 0.8
+    },
+    "sparge": {
+      "_created": {
+        "seconds": 1615929593,
+        "nanoseconds": 999000000
+      },
+      "chloride": 5,
+      "name": "02 NL Spa Reine Flat Mineral Water (www.ah.nl)",
+      "calcium": 5,
+      "hidden": false,
+      "type": "source",
+      "magnesium": 2,
+      "bicarbonateMeqL": 0.2786154451291465,
+      "_version": "2.7.6",
+      "bicarbonate": 17,
+      "_timestamp_ms": 1621973883194,
+      "ionBalance": 2,
+      "sulfate": 4,
+      "alkalinity": 13.9309,
+      "ph": 6,
+      "anions": 0.503,
+      "cations": 0.545,
+      "hardness": 21,
+      "residualAlkalinityMeqLCalc": 0.16012,
+      "ionBalanceOff": false,
+      "residualAlkalinity": 9.1836,
+      "sodium": 3,
+      "_timestamp": {
+        "seconds": 1621973883,
+        "nanoseconds": 194000000
+      },
+      "_id": "HAb1UmR5i0YiAJfCZ3ngwuOpMdssBy",
+      "soClRatio": 0.8
+    }
+  },
+  "hops": [],
+  "fermentation": {
+    "name": "01 Ale + DR + Conditioning",
+    "_id": "xJD4OQsGafcf6DSEiSIyRxsbR4e76A",
+    "_created": {
+      "seconds": 1616003147,
+      "nanoseconds": 21000000
+    },
+    "_timestamp_ms": 1616272958701,
+    "steps": [
+      {
+        "stepTemp": 18,
+        "pressure": null,
+        "ramp": null,
+        "stepTime": 30,
+        "displayPressure": null,
+        "type": "Primary",
+        "displayStepTemp": 18
+      },
+      {
+        "displayStepTemp": 18,
+        "stepTemp": 18,
+        "displayPressure": null,
+        "stepTime": 60,
+        "ramp": null,
+        "type": "Secondary",
+        "pressure": null
+      },
+      {
+        "stepTemp": 18,
+        "displayStepTemp": 18,
+        "ramp": null,
+        "stepTime": 75,
+        "displayPressure": null,
+        "pressure": null,
+        "type": "Conditioning"
+      }
+    ],
+    "hidden": false,
+    "_timestamp": {
+      "seconds": 1616272958,
+      "nanoseconds": 701000000
+    },
+    "_version": "2.7.3"
+  },
+  "hopStandMinutes": 0,
+  "carbonationStyle": null,
+  "styleBuGu": null,
+  "styleOg": null,
+  "fermentableIbu": 0,
+  "path": "",
+  "notes": "Original recipe:\nEver since my last trip to the UK, I have fallen in love with a good dry English cider. It has become my goal ever sense to re-create a English-style cider using store-bought materials. After adding different forms of tannin and acid, using all sorts of ale yeasts to ferment the juice, and I think I have come up with a great recipe that pretty much anyone can do, getting a quaffable re-creation of a cider one could get across the pond. Finishes dry to off-dry, around 1.002, 6.4% abv. Taste is most comparable to the Samual Smith Organic Cider you can get here in the states.\n\nGraham's English Cider\n5 gallons Treetop (or equivalent) Apple Juice\n4 black teabags (English or Irish Breakfast)\n3 key limes (or one regular lime)\n1 pack s-04 yeast\n(yeast nutrients as needed)\n\nDirections\nAdd juice of lime(s) to 3 cups of water, bring to a boil then turn off heat. Steep teabags for 7-10 mins, cool for a few mins then add to carboy. Add nutrients and juice into carboy with an aggressive pour to help aerate the juice. Add yeast, put an airlock on then place in a cool (60F-70F) environment.\n\nPrimary for one month, then rack to secondary, topping off with juice. Leave in secondary until crystal clear (usually 2-3 months or so from pitching) then bottle with 4oz priming sugar.\n\nTakes about a month to carbonate, tastes good after 3 months, but just gets better with age. I usually start opening bottles about 5 months after pitching.",
+  "efficiency": 70,
+  "rbRatio": 0,
+  "defaults": {
+    "preferred": "metric",
+    "abv": "simple",
+    "attenuation": "normal",
+    "color": "ebc",
+    "grainColor": "default",
+    "gravity": "sg",
+    "ibu": "tinseth",
+    "temp": "c",
+    "volume": "l",
+    "weight": "kg",
+    "hop": "g",
+    "pressure": "bar",
+    "carbonation": "vol",
+    "altitude": "m"
+  },
+  "fermentablesTotalAmount": 5.6,
+  "fg": 1.011,
+  "attenuation": 0.759,
+  "_uid": "f8vzySfCNzOXgK7PVc1TpOuM5m22",
+  "type": "Extract",
+  "hidden": false,
+  "ibuFormula": "tinseth",
+  "ogPlato": 11.7,
+  "buGuRatio": 0,
+  "_version": "2.7.6",
+  "color": 4,
+  "og": 1.045467015,
+  "styleIbu": null,
+  "styleFg": null,
+  "_init": true,
+  "boilTime": 0,
+  "carbonation": 2.4,
+  "yeastToleranceExceededBy": null,
+  "styleColor": null,
+  "_ev": 1.1,
+  "data": {
+    "mashFermentablesAmount": 0,
+    "allDiastaticPower": true,
+    "mashFermentables": [],
+    "otherFermentablesAmount": 5.62,
+    "otherFermentables": [
+      {
+        "percentage": 100,
+        "bestBeforeDate": null,
+        "costPerAmount": null,
+        "substitutes": "",
+        "friability": null,
+        "supplier": "De Olmenhorst",
+        "potential": 1.005,
+        "amount": 5.6,
+        "hidden": false,
+        "lovibond": 0.9,
+        "acid": null,
+        "grainCategory": null,
+        "protein": null,
+        "_timestamp_ms": 1622132303616,
+        "diastaticPower": null,
+        "name": "Apple Juice",
+        "coarseFineDiff": null,
+        "manufacturingDate": null,
+        "type": "Other",
+        "origin": "NL",
+        "_created": {
+          "seconds": 1605809837,
+          "nanoseconds": 169000000
+        },
+        "cgdb": null,
+        "maxInBatch": null,
+        "userNotes": "",
+        "_parent": "usC9M2z0Db7wfel6ll6Ge0DLZZhyXX",
+        "fan": null,
+        "attenuation": null,
+        "potentialPercentage": 11.8,
+        "fgdb": null,
+        "notFermentable": false,
+        "_timestamp": {
+          "seconds": 1622132303,
+          "nanoseconds": 616000000
+        },
+        "_id": "sWkUqKHGsSaFZwwIoP58CkcqmD6YHH",
+        "usedIn": "",
+        "color": 0.507614,
+        "ibuPerAmount": null,
+        "_version": "2.7.6",
+        "moisture": null,
+        "inventory": null,
+        "notes": ""
+      },
+      {
+        "protein": null,
+        "acid": null,
+        "bestBeforeDate": null,
+        "moisture": null,
+        "use": "Bottling",
+        "_created": {
+          "seconds": 1591526370,
+          "nanoseconds": 788000000
+        },
+        "_version": "2.7.6",
+        "ibuPerAmount": null,
+        "inventory": 0,
+        "hidden": false,
+        "potentialPercentage": 100,
+        "origin": "",
+        "diastaticPower": null,
+        "supplier": "Albert Heijn",
+        "fan": null,
+        "amount": 0.02,
+        "_timestamp_ms": 1620235655378,
+        "fgdb": null,
+        "_timestamp": {
+          "seconds": 1620235655,
+          "nanoseconds": 378000000
+        },
+        "maxInBatch": null,
+        "notFermentable": false,
+        "notes": "",
+        "name": "Sugar, Table (Sucrose)",
+        "attenuation": 1.22,
+        "type": "Sugar",
+        "excluded": true,
+        "color": 1.015228,
+        "potential": 1.046,
+        "substitutes": "",
+        "costPerAmount": 0.75,
+        "cgdb": null,
+        "_id": "default-132c22b",
+        "manufacturingDate": null,
+        "grainCategory": null,
+        "userNotes": "Albert Heijn (NL)",
+        "usedIn": "",
+        "percentage": 0,
+        "friability": null,
+        "coarseFineDiff": null
+      }
+    ],
+    "mashWaterAmount": 26.88,
+    "spargeWaterAmount": 0,
+    "mashVolumeSurplus": 0,
+    "topUpWater": 0,
+    "batchSpargeWaterAmount1": null,
+    "batchSpargeWaterAmount2": null,
+    "batchSpargeWaterAmount3": null,
+    "batchSpargeWaterAmount4": null,
+    "hltWaterAmount": 0,
+    "totalWaterAmount": 26.88,
+    "strikeTemp": null,
+    "mashVolume": null
+  },
+  "batchSize": 5.6,
+  "styleConformity": null,
+  "_timestamp_ms": 1625092677602,
+  "primaryTemp": 18,
+  "totalGravity": 1.04700827,
+  "_created": {
+    "seconds": 1622294770,
+    "nanoseconds": 253000000
+  },
+  "author": "Freezeblade@homebrewtalk.com",
+  "fgFormula": "normal",
+  "ibu": 0,
+  "hopsTotalAmount": 0,
+  "mash": {
+    "name": "01 One Step Mash (60 min)",
+    "_timestamp_ms": 1599244924266,
+    "_id": "6jpuQsHCfaiAn3GQJSrfqHXEFQtXW2",
+    "steps": [
+      {
+        "stepTime": 60,
+        "displayStepTemp": 63,
+        "stepTemp": 63,
+        "type": "Temperature",
+        "rampTime": null
+      }
+    ],
+    "_created": {
+      "seconds": 1592329902,
+      "nanoseconds": 204000000
+    },
+    "hidden": false,
+    "_version": "2.3.14",
+    "_timestamp": {
+      "seconds": 1599244924,
+      "nanoseconds": 266000000
+    }
+  },
+  "tags": null,
+  "_timestamp": "2021-06-30T22:37:57.602Z",
+  "preBoilGravity": 1.009,
+  "sumDryHopPerLiter": 0,
+  "yeasts": [
+    {
+      "minAttenuation": null,
+      "manufacturingDate": null,
+      "bestBeforeDate": 0,
+      "type": "Ale",
+      "_version": "2.7.6",
+      "amount": 1,
+      "_created": {
+        "seconds": 1597943333,
+        "nanoseconds": 31000000
+      },
+      "hidden": false,
+      "description": "English ale yeast selected for its fast fermentation character and its ability to form a compact sediment at the end of fermentation, helping to improve beer clarity. Recommended for the production of a large range of ales and specially adapted to cask-conditioned ones and fermentation in cylindo-conical tanks.",
+      "costPerAmount": 2.55,
+      "form": "Dry",
+      "laboratory": "Fermentis",
+      "maxTemp": 24,
+      "maxAbv": null,
+      "_timestamp_ms": 1621184996770,
+      "name": "SafAle English Ale",
+      "fermentsAll": false,
+      "lotNumber": "",
+      "_parent": "default-e294c5",
+      "flocculation": "Medium",
+      "_id": "F6MOfNi2h2eudOeL3pSFJOXH5Covog",
+      "attenuation": 75,
+      "userNotes": "The Malt Miller (UK) YEA-02-024",
+      "_timestamp": {
+        "seconds": 1621184996,
+        "nanoseconds": 770000000
+      },
+      "maxAttenuation": null,
+      "minTemp": 15,
+      "productId": "S-04",
+      "unit": "pkg",
+      "inventory": 0
+    }
+  ],
+  "avgWeightedHopstandTemp": 77,
+  "name": "Graham's English Cider"
+}
